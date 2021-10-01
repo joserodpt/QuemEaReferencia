@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reference">Entidade</string>
+    <string name="app_name">QuemÉaEntidade?</string>
+    <string name="no_found">Não Encontrada</string>
+</resources>

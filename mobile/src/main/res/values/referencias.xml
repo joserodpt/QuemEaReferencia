@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="referencias">
+        <item></item>
+        <item>10003 - Lycamobile Portugal, Lda</item>
+        <item>10061 - NOS Comunicações SA</item>
+        <item>10081 - OTLIS, Operadores de Transportes Região de Lisboa ACE</item>
+        <item>10083 - TIP,Transportes Intermodais Porto ACE</item>
+        <item>10095 - Pagamentos ao Estado</item>
+        <item>10121 - ACP, Automóvel Clube de Portugal</item>
+        <item>10128 - Fidelidade Companhia Seguros SA</item>
+        <item>10130 - Eden Springs Portugal SA</item>
+        <item>10131 - TAP, Transportes Aéreos Portugueses</item>
+        <item>10132 - Liberty Seguros</item>
+        <item>10142 - Universidade do Minho</item>
+        <item>10154 - Medis - Companhia Portuguesa de Seguros de Saúde, SA</item>
+        <item>10155 - Loja do Condomínio</item>
+        <item>10158 - Vodafone Portugal Comunicações Pessoais</item>
+        <item>10175 - Seleções Readers Digest</item>
+        <item>10196 - FAGAR, Faro, Gestão de Águas e Resíduos</item>
+        <item>10208 - Global Noticias, anúncios Jornal de Noticias</item>
+        <item>10211 - Câmara Municipal do Porto</item>
+        <item>10212 - Motor Press Lisboa, Edição e Distribuição SA</item>
+        <item>10227 - Caravela, Companhia de Seguros SA</item>
+        <item>10231 - INATEL</item>
+        <item>10237 - Publiregiões - Soc. Jornalística Editorial, Lda</item>
+        <item>10241 - HiPay: Compra Fácil</item>
+        <item>10244 - Victoria Seguros</item>
+        <item>10261 - OK TeleSeguros</item>
+        <item>10271 - Ordem dos Médicos</item>
+        <item>10277 - NOS Comunicações </item>
+        <item>10294 - AGEAS Portugal Companhia Seguros SA</item>
+        <item>10296 - Faculdade de Motricidade Humana</item>
+        <item>10297 - Vodafone Portugal</item>
+        <item>10311 - Ordem dos Engenheiros</item>
+        <item>10314 - IPCV, Instituto Politécnico de Viana do Castelo</item>
+        <item>10335 - Ordem dos Enfermeiros</item>
+        <item>10351 - NOS Madeira Comunicações</item>
+        <item>10363 - FNAC</item>
+        <item>10377 - MAPFRE Seguros Gerais, S.A.</item>
+        <item>10404 - COFAC, Cooperativa Formação e Animação Cultural</item>
+        <item>10411 - Certiel, Associação Certificador Instalações Eletricas</item>
+        <item>10420 - Fidelidade Companhia Seguros SA</item>
+        <item>10422 - INCM</item>
+        <item>10451 - ISEP, Instituto Superior de Engenharia do Porto</item>
+        <item>10455 - Liberty Seguros, SA</item>
+        <item>10482 - FC Porto cotas (Sportinveste Multimedia SA)</item>
+        <item>10511 - Porto Editora - Escola Virtual</item>
+        <item>10550 - OTIS Elevadores Lda</item>
+        <item>10559 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>10575 - Viagens Abreu</item>
+        <item>10587 - INPI - Instituto Nacional da Propriedade Industrial </item>
+        <item>10597 - CUF Hospitais</item>
+        <item>10611 - EasyPay (pequenas empresas e particulares)</item>
+        <item>10612 - Sweets 4 U - COM. E REP.PROD.ALIM.LDA</item>
+        <item>10641 - Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, IP</item>
+        <item>10644 - Cloudware, Toconline (Programas de faturação)</item>
+        <item>10652 - SAGE Portugal</item>
+        <item>10828 - Nestlé Portugal SA</item>
+        <item>10941 - Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E</item>
+        <item>10950 - IVV, Instituto da Vinha e do Vinho</item>
+        <item>10954 - Altice Portugal (PT MEO)</item>
+        <item>10958 - ISEP, Instituto Superior de Engenharia do Porto</item>
+        <item>10982 - Armazéns Marques Soares (Porto)</item>
+        <item>10991 - STAPLES Portugal SA - Equip. Escritório</item>
+        <item>10996 - ADENE, Agência para a Energia</item>
+        <item>11012 - Instituto de Registos e Notariado, IP</item>
+        <item>11013 - Portal da Empresa, AMA, Agência para a Modernização Administrativa</item>
+        <item>11024 - Lusopay, (atribuição de referencias MB a pequenas empresas e particulares: Funidelia)</item>
+        <item>11034 - Fidelidade Companha de Seguros, SA.</item>
+        <item>11056 - N Seguros</item>
+        <item>11062 - ACP Mediação de Seguros SA</item>
+        <item>11063 - Seguradoras Unidas, SA</item>
+        <item>11100 - Clínica CUF Cascais, SA.</item>
+        <item>11163 - Villas Boas ACP Archer &amp; Camacho, SA</item>
+        <item>11202 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11206 - Agência para a Modernização Administrativa</item>
+        <item>11216 - Município de Estremoz</item>
+        <item>11241 - La Redoute</item>
+        <item>11249 - HiPay, Compra Fácil HPME SA (Conforama, HiMedia Lap2Go.pt, GlobalSport.pt, Mister Auto, PCDIGA, Betfair, bet365, burlas OLX)</item>
+        <item>11283 - EDP</item>
+        <item>11286 - Hospital da Luz, SA.</item>
+        <item>11299 - AT, Autoridade Tributária, Pagamento IES - Informação Empresarial Simplificada</item>
+        <item>11302 - Webnode</item>
+        <item>11314 - ONSALESIT SA</item>
+        <item>11335 - Athenas Mediadora de seguros</item>
+        <item>11358 - Universidade de Coimbra</item>
+        <item>11364 - Endesa (Electricidade)</item>
+        <item>11369 - Empark Portugal, Empreendimentos e Exploração de Parqueamentos</item>
+        <item>11390 - 2B Style Unipessoal Lda</item>
+        <item>11409 - Courlux Internacional</item>
+        <item>11412 - FixeAds, Imovirtual e Standvirtual,  pagamento de anúncios</item>
+        <item>11413 - TAP, Transportes Aéreos Portugueses</item>
+        <item>11419 - Opensoft Soluções Informáticas SA</item>
+        <item>11421 - Câmara Municipal de Lisboa</item>
+        <item>11440 - ISEP, Carregamento Cartão Alimentação</item>
+        <item>11454 - Direção-Geral da Administração da Justiça, DGAJ </item>
+        <item>11456 - Gold Energy, Comercializadora Energia SA</item>
+        <item>11471 - TAP, Transportes Aéreos Portugueses</item>
+        <item>11473 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11496 - Universidade do Porto</item>
+        <item>11583 - Gas Natural Serviços SDG SA</item>
+        <item>11589 - Worten Equipamentos para o lar, S.A.</item>
+        <item>11604 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11606 - CIF, Agência de Viagens e Turismo SA</item>
+        <item>11609 - ISCSP, Instituto Superior de Ciências Sociais e Politicas</item>
+        <item>11644 - Iberdrola Energia</item>
+        <item>11648 - IGFIJ, Instituto de Gestão Financeira e Equipamentos da Justiça</item>
+        <item>11663 - Município de Santo Tirso</item>
+        <item>11668 - Move Aveiro</item>
+        <item>11669 - Multicert, Serviços de Certificação Eletrónica, SA</item>
+        <item>11679 - AEFDTV - Associação Educação Física Desportiva de Torres Vedras</item>
+        <item>11683 - Easypay  (pequenas empresas e particulares)</item>
+        <item>11686 - Ifthenpay (Castro Eletrónica, outras pequenas empresas e particulares)</item>
+        <item>11687 - Ifthenpay, (Audilar, Rádio Popular)</item>
+        <item>11693 - Centro Hospitalar e Universitário de Coimbra</item>
+        <item>11703 - Diário de Aveiro</item>
+        <item>11706 - Universidade de Lisboa - Verão na ULisboa</item>
+        <item>11708 - MHR</item>
+        <item>11711 - IRN, Instituto de Registos e Notariado, IP</item>
+        <item>11712 - IRN, Instituto de Registos e Notariado, IP</item>
+        <item>11713 - IRN, Instituto de Registos e Notariado, IP</item>
+        <item>11714 - IRN, Instituto de Registos e Notariado, IP</item>
+        <item>11717 - IEFP, Instituto de Emprego e Formação Profissional</item>
+        <item>11726 - Vertbaudet Portugal, Lda. Bimbi.</item>
+        <item>11737 - Ticket Restaurant</item>
+        <item>11749 - SportZone</item>
+        <item>11758 - SATA Internacional</item>
+        <item>11767 - CVRVV, Comissão de Viticultura da Região Vinhos Verdes</item>
+        <item>11768 - Câmara Municipal de Viana do Castelo</item>
+        <item>11780 - Claranet Soho, SA</item>
+        <item>11782 - Easypay (pequenas empresas e particulares)</item>
+        <item>11795 - Instituto dos Registos e do Notariado (Registo Predial Online, RPO)</item>
+        <item>11799 - IRN, Instituto dos Registos e do Notariado (Registo Predial Online, RPO)</item>
+        <item>11802 - Ifthenpay</item>
+        <item>11811 - Centro Social da Legião da Boa Vontade</item>
+        <item>11843 - Easypay (pequenas empresas e particulares)</item>
+        <item>11846 - Iberdrola</item>
+        <item>11852 - PPRO Financial Ltd.</item>
+        <item>11854 - PPRO FINANCIAL LTD (pequenas empresas e particulares)</item>
+        <item>11873 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11877 - euPago (Instituição de Pagamento Lda, Invoice Express)</item>
+        <item>11893 - HPME SA (pequenas empresas e particulares)</item>
+        <item>11896 - IAVE, Instituto de Avaliação Educativa</item>
+        <item>11916 - Via Verde Portugal, S.G.E. Cobranças SA</item>
+        <item>11925 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11937 - IRN, Instituto Registos Notariado, IP</item>
+        <item>11944 - Via Verde Portugal, S.G.E. Cobrancas SA</item>
+        <item>11950 - Câmara Municipal de Lisboa</item>
+        <item>11967 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11979 - PayPayUE PAG UNIP Lda</item>
+        <item>11985 - Galp Energia, SA</item>
+        <item>11988 - Ifthenpay (Audilar, Delikatessen, etc)</item>
+        <item>11989 - Ifthenpay (pequenas empresas e particulares)</item>
+        <item>11990 - Ifthenpay (Aquário)</item>
+        <item>11999 - EPorto, Estacionamentos Públicos do Porto (multas estacionamento)</item>
+        <item>12009 - Gold Energy</item>
+        <item>12020 - Easypay (pequenas empresas e particulares)</item>
+        <item>12029 - HPME SA (Proalojamento, ...)</item>
+        <item>12041 - Easypay</item>
+        <item>12057 - Dalenys Payment</item>
+        <item>12061 - El Corte Inglés, Grandes Armazéns, SA</item>
+        <item>12101 - HPME SA; é utilizado tanto pela Decathlon como pela GearBest</item>
+        <item>12121 - Endesa Energia, Sucursal Portugal</item>
+        <item>12133 - Ifthenpay (CDUP)</item>
+        <item>12142 - euPago Instituição de Pagamento LDA</item>
+        <item>12177 - Pupycare Unipessoal Lda.</item>
+        <item>12179 - Ifthenpay (Loja das Peças)</item>
+        <item>12240 - Câmara Municipal de Aveiro</item>
+        <item>12307 - Brigoffice.pt</item>
+        <item>12385 - Iberdrola</item>
+        <item>20108 - Wizink Bank, SA</item>
+        <item>20130 - Novo Banco</item>
+        <item>20145 - Sporting Clube de Portugal, Futebol SAD</item>
+        <item>20152 - Sporting Clube de Portugal</item>
+        <item>20160 - Jogos Santa Casa</item>
+        <item>20173 - Liberty Seguros, SA</item>
+        <item>20174 - EDP Comercial (Electricidade)</item>
+        <item>20175 - Allianz (Seguros)</item>
+        <item>20181 - IGFSS, Instituto de Gestão Financeira da Segurança Social</item>
+        <item>20183 - Generali, Companhia de Seguros</item>
+        <item>20185 - BNP Paribas Personal Finance</item>
+        <item>20223 - Novo Banco SA.</item>
+        <item>20229 - GE Consumer Finance IFIC SA.</item>
+        <item>20237 - Ordem dos Solicitadores e Agentes de Execução, Execuções Fiscais</item>
+        <item>20341 - Via Verde - S.G.E. Cobranças SA</item>
+        <item>20394 - Millenium BCP Banco Comercial Português</item>
+        <item>20409 - Federação Portuguesa de Futebol</item>
+        <item>20414 - BEST, Banco Electrónico Serviço Total</item>
+        <item>20420 - Metlife Europe Limited</item>
+        <item>20426 - FCPorto Lugar Anual (Porto Comercial SA)</item>
+        <item>20442 - NOS (antiga ZON e Optimus, Inativo)</item>
+        <item>20456 - Crédito Agrícola - Cartões</item>
+        <item>20484 - Caixa Geral de Depósitos (ex. carregamento de cartões de débito pré pagos)</item>
+        <item>20498 - Banco Santander Consumer Portugal, SA</item>
+        <item>20601 - BNP Paribas Personal Finance</item>
+        <item>20603 - Optimus / Clix</item>
+        <item>20641 - Serviços Municipalizados de Loures - Águas (eventualmente utilizado também por outros municípios)</item>
+        <item>20659 - Zurich Seguros</item>
+        <item>20669 - Município Oliveira de Azeméis</item>
+        <item>20670 - Banco Santander Totta SA</item>
+        <item>20678 - ONEY / Jumbo</item>
+        <item>20691 - SMAS de Sintra</item>
+        <item>20698 - Ordem dos Arquitetos</item>
+        <item>20715 - BPI, Banco Português de Investimento</item>
+        <item>20718 - Banco Santander Totta</item>
+        <item>20719 - Associação DNS PT</item>
+        <item>20724 - ACP, Autoridade para as Condições de Trabalho</item>
+        <item>20725 - Instituto Politécnico de Portalegre</item>
+        <item>20741 - Credibom, Soc. Fin. Aquisições a Crédito, SA</item>
+        <item>20754 - Banco Santander Totta, Cartão de crédito</item>
+        <item>20755 - Banco Santander Totta SA.</item>
+        <item>20776 - AGEAS Portugal Companhia de Seguros SA</item>
+        <item>20804 - UNICRE, Instituição Financeira Crédito SA;</item>
+        <item>20811 - EPAL, Empresa Portuguesa das àguas Livres, Águas de Lisboa</item>
+        <item>20812 - EDP serviço universal</item>
+        <item>20813 - BPI, Banco Português de Investimento</item>
+        <item>20815 - Águas do Porto</item>
+        <item>20820 - DIGAL - Distribuição e Comércio, SA - LPG, Mem Martins</item>
+        <item>20821 - IST, Instituto Superior Técnico</item>
+        <item>20832 - EEM, Empresa Eletricidade Madeira SA</item>
+        <item>20834 - Novo Banco SA</item>
+        <item>20838 - ISEG, Instituto Superior de Economia e Gestão</item>
+        <item>20839 - Cetelem</item>
+        <item>20843 - ANRS, Autoridade Nacional de Segurança rodoviária, multa / coima rodoviária</item>
+        <item>20856 - GASCAN, SA.</item>
+        <item>20858 - Coficis</item>
+        <item>20890 - WIZINK BANK (antigo Barclaycard)</item>
+        <item>20891 - WIZINK BANK (antigo Barclaycard)</item>
+        <item>20912 - ISPA, Instituto Superior de Psicologia Aplicada</item>
+        <item>20918 - Universidade de Aveiro</item>
+        <item>20932 - OCC - Ordem dos Contabilistas Certificados</item>
+        <item>20934 - Açoreana Seguros</item>
+        <item>20936 - NOWO Communications, SA</item>
+        <item>20950 - Petrogal, Petróleos de Portugal, SA</item>
+        <item>20961 - Rentokill</item>
+        <item>20975 - IMTT, Instituto da Mobilidade e dos Transportes Terrestres, IP</item>
+        <item>20977 - Remax Portugal (Casax, Consultadoria de Gestão Lda)</item>
+        <item>20987 - Bluetickets, Serviços de Bilhética, SA</item>
+        <item>21000 - Jet Cooler, Águas e Cafés, SA</item>
+        <item>21028 - Banco Santander Totta, SA</item>
+        <item>21034 - Banco Primus SA</item>
+        <item>21053 - Porto Editora, SA</item>
+        <item>21056 - ISFSS, Instituto de Gestão Financeira da Segurança Social</item>
+        <item>21086 - IMTT, Instituto da Mobilidade e dos Transportes Terrestres IP</item>
+        <item>21094 - Setgás Comercialização, SA.</item>
+        <item>21096 - Galp Energia</item>
+        <item>21098 - Easypay</item>
+        <item>21111 - Instituto Gestão Financeira Segurança Social</item>
+        <item>21132 - Águas do Ribatejo</item>
+        <item>21135 - Seguradoras Unidas, SA</item>
+        <item>21138 - ALLIANZ VIDA</item>
+        <item>21142 - Condoarade, Gestão de Condomínios</item>
+        <item>21146 - Segurigiene, Saúde no Trabalho SA</item>
+        <item>21154 - CTT (Pagamento Portagens)</item>
+        <item>21159 - Altice Portugal (PT Empresas, MEO)</item>
+        <item>21177 - Galp Gás Natural SA</item>
+        <item>21184 - Cofre de Previdência dos Funcionários e Agentes do Estado</item>
+        <item>21188 - EDP Soluções Comerciais, SA</item>
+        <item>21196 - EDP Soluções Comerciais, SA</item>
+        <item>21199 - APECA, Associação das Empresas de Contabilidade e Administração</item>
+        <item>21212 - Município de Paredes</item>
+        <item>21213 - Universidade Aberta</item>
+        <item>21217 - ASCENDI, Auto-Estradas do Norte SA.</item>
+        <item>21218 - Ascendi Portagens</item>
+        <item>21225 - Montellano Lda</item>
+        <item>21323 - 321 Crédito, Instituição Financeira de Crédito, SA</item>
+        <item>21423 - HPME SA - HI-MEDIA PORTE MONNAIE ÉLECTRONIQUE (HPME) SA - Entidade que faculta serviços de pagamento a terceiros</item>
+        <item>21234 - Vialivre (Portagens)</item>
+        <item>21235 - OTIS Elevadores, Lda.</item>
+        <item>21245 - BMW GMBH Sucursal Portuguesa</item>
+        <item>21246 - BMW RENTING PORTUGAL LDA</item>
+        <item>21267 - eCalma</item>
+        <item>21269 - Universidade do Porto</item>
+        <item>21276 - Santander Totta Seguros, Companhia de Seguros de Vida SA</item>
+        <item>21286 - Montepio Recuperação de Crédito, Ace</item>
+        <item>21297 - Groupama Seguros, SA.</item>
+        <item>21309 - Águas da Região de Aveiro - Grupo Águas de Portugal (mas noutros sites está anunciado como Município de Terras de Bouro)</item>
+        <item>21312 - Caixa Económica Montepio Geral</item>
+        <item>21318 - Município de Coimbra</item>
+        <item>21321 - Primavera Software, SA</item>
+        <item>21325 - CM Gaia</item>
+        <item>21341 - PORTVIAS, Portagem de Vias, SA</item>
+        <item>21344 - Município de Gondomar</item>
+        <item>21345 - Cascais Próxima, Gestão de Mobilidade, Espaços Urbanos e Energia, EM SA</item>
+        <item>21346 - Associação Religiosa dos Custódios de Maria</item>
+        <item>21347 - Polícia Municipal de Lisboa</item>
+        <item>21365 - Servdebt, Capital Asset Management, Lda.</item>
+        <item>21374 - BNP Paribas, Personal Finance, SA</item>
+        <item>21375 - Millenium BCP,  Banco Comercial Português</item>
+        <item>21383 - Wurth Portugal, Técnica de Montagem, Lda.</item>
+        <item>21410 - Servdebt, Capital Asset Management, Lda.</item>
+        <item>21417 - Ascendi SA. (Pinhal Interior, Estradas Pinhal)</item>
+        <item>21426 - PT Pay SA (Serviços Meo Wallet, TicketLine, outros…)</item>
+        <item>21448 - IGFSS, FCT, Fundos de Compensação do Trabalho</item>
+        <item>21467 - Liberty Seguros SA</item>
+        <item>21487 - Águas de Valongo SA</item>
+        <item>21489 - Millennium BCP, Banco Comercial Português</item>
+        <item>21523 - Gestifatura, atribuição de referências multibanco</item>
+        <item>21496 - CMPEA, Empresa de Águas do Município do Porto EM.</item>
+        <item>21535 - Lisgarante, Sociedade de Garantia Mútua, SA</item>
+        <item>21540 - Aegon Santander Portugal Vida, Companhia de Seguros</item>
+        <item>21546 - UCI, Unión de Créditos Inmobiliários SA</item>
+        <item>21544 - Pagamentos a terceiros como Viagra.no</item>
+        <item>21557 - CTT, Correios de Portugal (Cobrança de Serviços)</item>
+        <item>21559 - Liga Portuguesa contra o Cancro</item>
+        <item>21565 - PT Pay SA</item>
+        <item>21572 - Victoria Seguros, SA</item>
+        <item>21575 - Serviços Municipalizados das Caldas da Rainha</item>
+        <item>21577 - Lease Plan Portugal, Comércio e Aluguer de automóveis, Lda.</item>
+        <item>21579 - NOS Comunicações SA</item>
+        <item>21604 - euPago (Lap2go, organização de eventos como corridas)</item>
+        <item>21606 - Ordem dos Enfermeiros</item>
+        <item>21607 - CTT Expresso, Serviços Postais Logistica</item>
+        <item>21615 - Logicomer, Gestão e Recuperação de Créditos, SA.</item>
+        <item>21619 - Serviços Municipalizados de Leiria</item>
+        <item>21622 - SMAS, Águas de Coimbra</item>
+        <item>21624 - SMAS, Vila Franca de Xira</item>
+        <item>21625 - SMAS, Águas da Maia</item>
+        <item>21633 - Prio</item>
+        <item>21643 - HEFESTO STC, S.A.</item>
+        <item>21651 - SMAS, Águas de Gaia</item>
+        <item>21653 - SAGASTA, SA.</item>
+        <item>21056 - Câmara Municipal do Seixal</item>
+        <item>21662 - euPago, Instituição de Pagamento, Lda.</item>
+        <item>21691 - Ocidental Seguros </item>
+        <item>21721 - Ifthenpay</item>
+        <item>21725 - Hefesto STC, S.A.</item>
+        <item>21726 - Galp Power</item>
+        <item>21776 - NSeguros</item>
+        <item>21799 - EDP Distribuição de Energia, SA.</item>
+        <item>21780 - Arrow Global Limited</item>
+        <item>21818 - Pode ser da EDP Serviço Universal, S.A, mas pode ser usado para phishing</item>
+        <item>21844 - Arrow Global Limited</item>
+        <item>21858 - Panorama Jubilante, SA</item>
+        <item>23000 - Bet Entertainment Technologies Limited Scrs</item>
+        <item>23014 - Blueticket</item>
+        <item>23025 - IKEA Portugal Moveis e Decoração, Lda.</item>
+        <item>23026 - Odisseias Puras, Viagens e Animação Turistica, S.A.</item>
+        <item>23040 - TAP, Transportes Aéreos Portugueses</item>
+        <item>23054 - Rede Nacional de Expressos</item>
+        <item>23096 - Leroy Merlin</item>
+        <item>23144 - PCDIGA</item>
+        <item>23154 - Zurich Insurance, Sucursal Portugal</item>
+        <item>23565 - E-Redes</item>
+    </string-array>
+</resources>

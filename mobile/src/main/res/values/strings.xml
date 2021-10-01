@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhoIsEntity?</string>
+    <string name="reference">Entity</string>
+    <string name="search" translatable="false">🔎</string>
+    <string name="no_found">Not Found</string>
+</resources>
